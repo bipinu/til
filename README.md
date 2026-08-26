@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1872 TILs and counting..._
+_1873 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1650,6 +1650,7 @@ If you've learned something here, support my efforts writing daily TILs by
 
 ### SQLite
 
+- [Add Check Constraint To Existing Column](sqlite/add-check-constraint-to-existing-column.md)
 - [Display Results In Readable Column Format](sqlite/display-results-in-readable-column-format.md)
 - [Explore The Database Schema](sqlite/explore-the-database-schema.md)
 - [Manage Lightweight Schema Migrations With `user_version`](sqlite/manage-lightweight-schema-migrations-with-user-version.md)
