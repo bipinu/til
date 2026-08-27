@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1873 TILs and counting..._
+_1874 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -172,6 +172,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Monitor Usage Limits From CLI](claude-code/monitor-usage-limits-from-cli.md)
 - [Open Current Prompt In Default Editor](claude-code/open-current-prompt-in-default-editor.md)
 - [Resume Specific Session](claude-code/resume-specific-session.md)
+- [Set Permission Mode When Starting Session](claude-code/set-permission-mode-when-starting-session.md)
 - [Stash The Current Prompt To Send Another First](claude-code/stash-the-current-prompt-to-send-another-first.md)
 
 ### Clojure
