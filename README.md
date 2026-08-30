@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1876 TILs and counting..._
+_1877 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1686,6 +1686,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Change Base Directory Of Existing Session](tmux/change-base-directory-of-existing-session.md)
 - [Change Base Directory Without Detaching](tmux/change-base-directory-without-detaching.md)
 - [Change The Default Prefix Key](tmux/change-the-default-prefix-key.md)
+- [Connect To Individual Overmind Processes Via tmux](tmux/connect-to-individual-overmind-processes-via-tmux.md)
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
 - [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
